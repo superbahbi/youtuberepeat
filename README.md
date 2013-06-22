@@ -2,7 +2,7 @@ youtuberepeat
 =============
 Youtube repeat using flatstrap and mediaelement
 
-http://obscureserver.com/repeat
+http://bahbi.net/repeat
 
 http://www.littlesparkvt.com/flatstrap/
 
