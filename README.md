@@ -1,9 +1,8 @@
 youtuberepeat
 =============
-Youtube repeat using flatstrap and mediaelement
+Youtube repeat using bootstrap
 
 http://bahbi.net/repeat
 
-http://www.littlesparkvt.com/flatstrap/
 
-http://mediaelementjs.com/
+
